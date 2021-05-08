@@ -35,3 +35,5 @@ W:\GITHUB\captainazure\code\CaptainAzure\obj\Debug\netcoreapp3.1\CaptainAzure.dl
 W:\GITHUB\captainazure\code\CaptainAzure\obj\Debug\netcoreapp3.1\CaptainAzure.pdb
 W:\GITHUB\captainazure\code\CaptainAzure\obj\Debug\netcoreapp3.1\CaptainAzure.genruntimeconfig.cache
 W:\GITHUB\captainazure\code\CaptainAzure\obj\Debug\netcoreapp3.1\CaptainAzure.csproj.CopyComplete
+W:\GITHUB\captainazure\code\CaptainAzure\bin\Debug\netcoreapp3.1\CaptainAzure.Logic.dll
+W:\GITHUB\captainazure\code\CaptainAzure\bin\Debug\netcoreapp3.1\CaptainAzure.Logic.pdb

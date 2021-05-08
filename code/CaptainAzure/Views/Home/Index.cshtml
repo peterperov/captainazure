@@ -2,7 +2,15 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<table class="table-hover claim-table">
+    <tr>
+        <th class="claim-type claim-data claim-head">Wisdom</th>
+    </tr>
+
+    @foreach (var key in Model)
+    {
+        <tr>
+            <td class="claim-data">@key</td>
+        </tr>
+    }
+</table>

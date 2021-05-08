@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using CaptainAzure.Models;
+using CaptainAzure.Logic;
+using System.Data.SqlTypes;
 
 namespace CaptainAzure.Controllers
 {
@@ -20,7 +22,21 @@ namespace CaptainAzure.Controllers
 
         public IActionResult Index()
         {
-            return View();
+
+            var bsg = new BullshitGenerator();
+
+            var i = 0;
+            var list = new List<string>(); 
+
+            while ( i<20)
+            {
+                list.Add(bsg.Generate()); 
+                i++; 
+            }
+
+
+
+            return View( list );
         }
 
         public IActionResult Privacy()
@@ -33,5 +49,7 @@ namespace CaptainAzure.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+
     }
 }

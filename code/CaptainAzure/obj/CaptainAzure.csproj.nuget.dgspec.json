@@ -4,6 +4,17 @@
     "W:\\GITHUB\\captainazure\\code\\CaptainAzure\\CaptainAzure.csproj": {}
   },
   "projects": {
+    "W:\\GITHUB\\captainazure\\code\\CaptainAzure.Logic\\CaptainAzure.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\GITHUB\\captainazure\\code\\CaptainAzure.Logic\\CaptainAzure.Logic.csproj",
+        "projectName": "CaptainAzure.Logic",
+        "projectPath": "W:\\GITHUB\\captainazure\\code\\CaptainAzure.Logic\\CaptainAzure.Logic.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "W:\\GITHUB\\captainazure\\code\\CaptainAzure\\CaptainAzure.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -31,7 +42,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "W:\\GITHUB\\captainazure\\code\\CaptainAzure.Logic\\CaptainAzure.Logic.csproj": {
+                "projectPath": "W:\\GITHUB\\captainazure\\code\\CaptainAzure.Logic\\CaptainAzure.Logic.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
