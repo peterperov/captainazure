@@ -39,6 +39,12 @@ namespace CaptainAzure.Controllers
             return View( list );
         }
 
+
+        public IActionResult History()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
