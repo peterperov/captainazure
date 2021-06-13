@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BjhUBRbL6cf6F0HJvD7YuHmra+mnirkactbzdWECMs6LVdJtJIaqONNhmesUkIbZFLQZB3hc/fgvrHuFV0UFmQ==",
+  "dgSpecHash": "QIjL2OVcClDE9YCa63gEJ1T4xN8D7WJGVnxQtNGXGp04bnrh7Skkk8o4FeOkw0xy8VKMOWJA5V/M9aaIfkpbrQ==",
   "success": true,
   "projectFilePath": "W:\\GITHUB\\captainazure\\code\\CaptainAzure.Tests\\CaptainAzure.Tests.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,7 @@
     "C:\\Users\\peter\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\peter\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\peter\\.nuget\\packages\\nunit3testadapter\\3.15.1\\nunit3testadapter.3.15.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",

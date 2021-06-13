@@ -112,3 +112,4 @@ W:\GITHUB\captainazure\code\CaptainAzure\obj\Debug\netcoreapp3.1\CaptainAzure.cs
 W:\GITHUB\captainazure\code\CaptainAzure\obj\Debug\netcoreapp3.1\CaptainAzure.MvcApplicationPartsAssemblyInfo.cache
 W:\GITHUB\captainazure\code\CaptainAzure\obj\Debug\netcoreapp3.1\Razor\Views\Home\History.cshtml.g.cs
 W:\GITHUB\captainazure\code\CaptainAzure\bin\Debug\netcoreapp3.1\wwwroot\images\casmall.png
+W:\GITHUB\captainazure\code\CaptainAzure\bin\Debug\netcoreapp3.1\libman.json
