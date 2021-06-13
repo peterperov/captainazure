@@ -1,6 +1,5 @@
 W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\appsettings.Development.json
 W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\appsettings.json
-W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\Properties\launchSettings.json
 W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\CaptainAzure.exe
 W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\CaptainAzure.deps.json
 W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\CaptainAzure.runtimeconfig.json
@@ -9,7 +8,6 @@ W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\CaptainAzure.
 W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\CaptainAzure.pdb
 W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\CaptainAzure.Views.dll
 W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\CaptainAzure.Views.pdb
-W:\GITHUB\captainazure\code\CaptainAzure\obj\Release\netcoreapp3.1\CaptainAzure.csprojAssemblyReference.cache
 W:\GITHUB\captainazure\code\CaptainAzure\obj\Release\netcoreapp3.1\CaptainAzure.csproj.CoreCompileInputs.cache
 W:\GITHUB\captainazure\code\CaptainAzure\obj\Release\netcoreapp3.1\CaptainAzure.MvcApplicationPartsAssemblyInfo.cache
 W:\GITHUB\captainazure\code\CaptainAzure\obj\Release\netcoreapp3.1\CaptainAzure.RazorAssemblyInfo.cache
@@ -112,3 +110,7 @@ W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\zh-Hans\Micro
 W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 W:\GITHUB\captainazure\code\CaptainAzure\obj\Release\netcoreapp3.1\Razor\Views\Home\History.cshtml.g.cs
 W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\wwwroot\images\casmall.png
+W:\GITHUB\captainazure\code\CaptainAzure\bin\Release\netcoreapp3.1\libman.json
+W:\GITHUB\captainazure\code\CaptainAzure\obj\Release\netcoreapp3.1\CaptainAzure.csproj.AssemblyReference.cache
+W:\GITHUB\captainazure\code\CaptainAzure\obj\Release\netcoreapp3.1\scopedcss\bundle\CaptainAzure.styles.css
+W:\GITHUB\captainazure\code\CaptainAzure\obj\Release\netcoreapp3.1\Razor\Views\Shared\GoogleAnalytics.cshtml.g.cs
